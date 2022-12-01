@@ -58,12 +58,6 @@ To compile, go to the project path and run:
 $ make
 ```
 
-or
-
-```shell
-$ make bonus
-```
-
 If you want the player sprite to be animated and have enemies in the map.
 
 ## 📋 How to play
