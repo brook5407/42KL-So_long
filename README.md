@@ -109,4 +109,4 @@ I added a map if you want to test the game.
 - "map/map.ber" is a very simple map
 
 
-![so_long_42]
+![so_long_42](./so_long.gif)
