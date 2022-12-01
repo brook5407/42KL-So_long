@@ -74,12 +74,6 @@ To play the minigame just need to launch it with the following shell command:
 $ ./so_long <map_name>.ber
 ```
 
-or
-
-```shell
-$ ./so_long_bonus <map_name>.ber
-```
-
 I added some maps if you want to test the game.
 - "map1.ber" is a very simple map.
 - "map2.ber" is a bigger map with more collectibles.
@@ -115,4 +109,4 @@ I added a map if you want to test the game.
 - "map/map.ber" is a very simple map
 
 
-![so_long_42](https://github.com/Surfi89/so_long/blob/main/so_long_42.png)
+![so_long_42](https://ibb.co/X3yF5Ct)
