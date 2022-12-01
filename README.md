@@ -73,12 +73,6 @@ To play the minigame just need to launch it with the following shell command:
 ```shell
 $ ./so_long <map_name>.ber
 ```
-
-I added some maps if you want to test the game.
-- "map1.ber" is a very simple map.
-- "map2.ber" is a bigger map with more collectibles.
-- "map3.ber" has some enemies for playing with the bonus minigame.
-
 **Controls**
 
 You can use WASD to move UP, LEFT, DOWN or RIGHT respectively.
